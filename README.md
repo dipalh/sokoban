@@ -78,6 +78,7 @@ This project runs using [CPUlator](https://cpulator.01xz.net/?sys=rv32-spim), an
 - Player 3 resets 3 times and finishes in 21 moves  
 
 📊 **Leaderboard Output:**
+
 Leaderboard:  
 Player 2: 11 moves  
 Player 1: 14 moves  
